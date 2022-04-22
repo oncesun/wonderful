@@ -11,7 +11,7 @@
 backgroud-color:skyblue;
 }
 p{
-color:#ffffff;
+color:#000000;
 font-size:20px;
 }
 </style>
