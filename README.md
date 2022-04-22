@@ -1,11 +1,11 @@
 # Goals
+<p>What is your learning goals?</p>
 # Questions
-# Solves
-<body>
+ <p>There are some reasons.</p>
+# Solving
+<p>Please try to solve these again!</p>
 <div class="one">
 <p>Welcom to my gihub!</p>
-</div>
-</body>
 <style>
 .one{
 backgroud-color:skyblue;
